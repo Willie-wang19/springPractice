@@ -1,2 +1,2 @@
 # springPrictice
-some prictice of spring 
+some practice of spring 
